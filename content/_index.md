@@ -1,19 +1,19 @@
 ---
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+I'm **Roberto Zúñiga**, a PhD student in Sustainable Development at Columbia University.
 
-I love all things computer science and maths.
+I'm working on climate adapation and mitigation policies'.
 
-Have a look at some of my working [projects].
+Have a look at some of my [research].
 
-For more check out my academic & professional [resume].
+For more check out my academic & professional [CV].
 
-Contact me at [@username] or by [email].
+Contact me at [@rbzuniga] or by [email].
 
 
 
-[projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
-[@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+[research]: /projects
+[CV]: https://demo.nurlan.co/hugo-vitae/
+[@rbzuniga]: https://twitter.com/rbzuniga
+[email]: rz2516@columbia.edu
